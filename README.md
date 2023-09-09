@@ -9,15 +9,18 @@ Text that keeps me up at night - biased towards RL and Memory
 
 [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
-[The Hutter Prize](http://prize.hutter1.net/)
+[Steps Towards Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)
 
-[Backpropagation Through Time and the Brain](https://www.sciencedirect.com/science/article/pii/S0959438818302009)
+[Backpropagation](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+
+[Universal Function Approximators](https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf)
 
 [Ilya Sutskever's PhD Thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
-[Steps Towards Artificial Intelligence (Minsky)](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)
+[Backpropagation Through Time and the Brain](https://www.sciencedirect.com/science/article/pii/S0959438818302009)
 
-[Universal Function Approximators](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
+[The Hutter Prize](http://prize.hutter1.net/)
+
 
 
 
@@ -25,25 +28,65 @@ Text that keeps me up at night - biased towards RL and Memory
 
 ### RL
 
+[Temporal Difference Learning](http://incompleteideas.net/papers/sutton-88-with-erratum.pdf)
+
+[Policy Gradient Methods](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
+
+[PPO](https://arxiv.org/pdf/1707.06347.pdf)
+
+[Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf)
+
+[Alpha Zero (self-play)](https://arxiv.org/pdf/1712.01815.pdf)
+
+[Alpha Go](https://www.nature.com/articles/nature16961)
+
 [RL^2](https://arxiv.org/pdf/1611.02779.pdf)
 
-[Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/pdf/1810.06721.pdf)
+[Relational Reinforcement Learning](https://link.springer.com/content/pdf/10.1023/a:1007694015589.pdf)
 
-[Continuous Adaptation via Meta-Learning in Non-stationary Environments](https://openreview.net/pdf?id=Sk2u1g-0-)
+[Relational Deep Reinforcement Learning](https://arxiv.org/pdf/1806.01830.pdf)
 
 [Alpha Star](https://www.nature.com/articles/s41586-019-1724-z)
 
 [OpenAI Five](https://arxiv.org/pdf/1912.06680.pdf)
 
+[Generally Capable Agents Emerge from Open Ended Play](https://arxiv.org/pdf/2107.12808.pdf)
+
 [Human Timescale Adaptation on Open Ended Tasks](https://arxiv.org/pdf/2301.07608.pdf)
 
-[Relational Deep Reinforcement Learning](https://arxiv.org/pdf/1806.01830.pdf)
+[Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/pdf/1810.06721.pdf)
+
+[Continuous Adaptation via Meta-Learning in Non-stationary Environments](https://openreview.net/pdf?id=Sk2u1g-0-)
 
 [RL Neural Turing Machines](https://arxiv.org/pdf/1505.00521.pdf)
 
 [In Context RL with Algorithm Distillation](https://arxiv.org/pdf/2210.14215.pdf)
 
+[A Survey of Generalization in Deep RL](https://arxiv.org/pdf/2111.09794.pdf)
 
+[Measuring Performance in Deep RL](https://arxiv.org/pdf/1709.06560.pdf)
+
+[Meta-Learning Survey Paper](https://arxiv.org/pdf/2004.05439.pdf)
+
+[Learning what to Memorize](https://arxiv.org/pdf/2110.12810.pdf)
+
+[MARL Scaling Laws](https://arxiv.org/pdf/2210.00849.pdf)
+
+[Transformers are Sample Efficient World Models](https://arxiv.org/pdf/2209.00588.pdf)
+
+[Accelerated Learning with Differentiable Simulation](https://arxiv.org/pdf/2204.07137.pdf)
+
+[Grounded Language Learning](https://arxiv.org/pdf/1706.06551.pdf)
+
+[Curriculum Learning Survey](https://arxiv.org/pdf/2101.10382.pdf)
+
+[Collaborating with Humans without Human Data](https://arxiv.org/pdf/2110.08176.pdf)
+
+[A Study on Dense and Sparse Rewards](https://arxiv.org/pdf/2108.03222.pdf)
+
+[Theory of Mind as Inverse Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055)
+
+[On the Role of Planning in Deep RL](https://arxiv.org/pdf/2011.04021.pdf)
 
 
 
@@ -71,11 +114,15 @@ Text that keeps me up at night - biased towards RL and Memory
 
 [On Layer Norm in Transformers](https://arxiv.org/pdf/2002.04745.pdf)
 
+[Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
+
 [Perciever](https://arxiv.org/pdf/2103.03206.pdf)
 
 [Set Transformer](https://arxiv.org/pdf/1810.00825.pdf)
 
 [Deep Sets](https://arxiv.org/pdf/1703.06114.pdf)
+
+[The Kanerva Machine](https://arxiv.org/pdf/1804.01756.pdf)
 
 [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
 
@@ -86,6 +133,8 @@ Text that keeps me up at night - biased towards RL and Memory
 [NARX RNNs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=548162&tag=1)
 
 [Temporal Kernel RNNs](https://www.sciencedirect.com/science/article/pii/S0893608009002664?ref=pdf_download&fr=RR-2&rr=7e3100e1fc115935)
+
+[DreamerV1](https://arxiv.org/pdf/1912.01603.pdf)
 
 [DreamerV2](https://arxiv.org/pdf/2010.02193.pdf)
 
