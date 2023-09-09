@@ -1,5 +1,5 @@
 # LITERATURE
-Text that keeps me up at night - biased towards RL and Memory
+Words that keeps me up at night 
 
 --------------------------------------------------------------------------------
 
