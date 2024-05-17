@@ -1,9 +1,9 @@
 # LITERATURE
-Words that keeps me up at night 
+Papers that have significantly influenced my thinking. 
 
 --------------------------------------------------------------------------------
 
-### THE GOOD STUFF
+### FUNDAMENTAL PAPERS
 
 [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
 
@@ -13,14 +13,21 @@ Words that keeps me up at night
 
 [Backpropagation](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 
+[Deep Learning](https://www.researchgate.net/publication/277411157_Deep_Learning)
+
 [Universal Function Approximators](https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf)
 
 [Ilya Sutskever's PhD Thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
+[Temporal Difference Learning](http://incompleteideas.net/papers/sutton-88-with-erratum.pdf)
+
 [Backpropagation Through Time and the Brain](https://www.sciencedirect.com/science/article/pii/S0959438818302009)
 
-[The Hutter Prize](http://prize.hutter1.net/)
+[Long Short-Term Memory](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory)
 
+[Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+[The Hutter Prize](http://prize.hutter1.net/)
 
 
 
@@ -106,7 +113,7 @@ Words that keeps me up at night
 
 [Sequence to Sequence for Sets](https://arxiv.org/pdf/1511.06391.pdf)
 
-[Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+[Transformer](https://arxiv.org/pdf/1706.03762.pdf)
 
 [Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf)
 
